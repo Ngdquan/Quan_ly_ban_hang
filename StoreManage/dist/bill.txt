@@ -1,0 +1,11 @@
+Jan 5, 2022 4:26:13 PM
+Type      P.Code    Name      	Vol/Wei   Cost          DOM            ExD  Quantity    Prices
+
+FOOD      a         a         	1.00      1.00            1              1        60     60.00
+
+DRINK     b         b         	2.00      2.00            2              2        50    100.00
+
+OTHERS    c         c         	3.00      3.00            3              3       100    300.00
+
+Total                             460.00
+
